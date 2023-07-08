@@ -1,7 +1,2 @@
 text for f1 - by de8899
-<<<<<<< HEAD
 erasing 2nd line.
-after commit?
-=======
-erasing 2nd line.
->>>>>>> 85f0cca4e71ddc018ebd5dc1ff9ec6b54871a021
